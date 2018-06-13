@@ -12,6 +12,16 @@ import android.widget.Toast;
 public class MainActivity extends AppCompatActivity {
 
 
+    /*
+    *
+    *
+    *
+    * https://github.com/ZamoraIgor/WPAM_SmartBike
+    *
+    *
+    *
+    */
+
     String deviceData;
     TextView status_info;
 
